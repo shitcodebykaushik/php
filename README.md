@@ -70,5 +70,4 @@ This journey is ongoing! Check back regularly for updates and new projects.
 ---
 
 ### 🖊️ Author
-**Your Name**  
-A passionate developer exploring the world of PHP.
+A  developer exploring the world of PHP.
